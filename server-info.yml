@@ -21,6 +21,8 @@ categories:
 staff:
   - Owner:
     - "35fa97c13e7146a2965d000d7568b577"
+  - Staff:
+    - "4720e6f4d0384f079f218bbd2978bf69"
 www: "https://vanilla2812.it"
 discord: "https://discord.com/invite/rGbB8U7Kx9"
 query_port: 25565
