@@ -3,7 +3,6 @@ name: "Vanilla2812"
 slug: "vanilla2812"
 hidden: false
 versions:
-  - "1.7"
   - "1.8"
   - "1.9"
   - "1.10"
